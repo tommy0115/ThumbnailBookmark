@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">썸네일 북마크</string>
+    <string name="tab_title_search">검색 결과</string>
+    <string name="tab_title_my_bookmark">내 보관함</string>
+</resources>
